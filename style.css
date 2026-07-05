@@ -1,0 +1,34 @@
+html {
+    background: black;
+}
+
+p, h1, span, table {
+    color: white
+}
+
+table, td, th {
+    border: 1px solid white;
+}
+
+table img {
+    width: 100%;
+    object-fit: contain;
+    display: block;
+    height: 256px;
+}
+
+table a {
+    margin: 50px; 
+}
+
+a {
+     color: #ffe300;
+}
+
+a:visited {
+     color: #ffe300;
+}
+
+ul {
+     color: #ffe300;
+}
